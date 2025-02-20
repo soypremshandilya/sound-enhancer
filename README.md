@@ -14,10 +14,6 @@ Sound Enhancer is a Python-based application designed to enhance the quality of 
 
 ---
 
-## 📸 GUI Preview
-![Sound Enhancer GUI](https://via.placeholder.com/600x400.png?text=Sound+Enhancer+GUI)
-
----
 
 ## 🚀 Getting Started
 
